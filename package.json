@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-domuso",
+  "version": "1.0.0",
+  "description": "eslint configuration for Domuso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domuso/eslint-config-domuso.git"
+  },
+  "author": "ron23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Domuso/eslint-config-domuso/issues"
+  },
+  "homepage": "https://github.com/Domuso/eslint-config-domuso#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
