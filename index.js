@@ -199,7 +199,7 @@ module.exports = {
             "no-useless-computed-key": "off",
             "no-useless-concat": "off",
             "no-useless-constructor": "off",
-            "no-useless-escape": "error",
+            "no-useless-escape": "warn", //DOMUSO
             "no-useless-rename": "off",
             "no-useless-return": "off",
             "no-var": "off",
