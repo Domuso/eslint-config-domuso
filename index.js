@@ -2,7 +2,6 @@
  * eslint:recommended rules taken from https://github.com/eslint/eslint/blob/master/conf/eslint-recommended.js
 */
 module.exports = {
-    rules: {
         rules: {
             "accessor-pairs": "off",
             "array-bracket-newline": "off",
@@ -261,6 +260,5 @@ module.exports = {
             "wrap-regex": "off",
             "yield-star-spacing": "off",
             yoda: "off"
-        }
     }
 };
