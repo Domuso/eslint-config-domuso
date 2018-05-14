@@ -193,13 +193,13 @@ module.exports = {
             "no-unsafe-negation": "error",
             "no-unused-expressions": "off",
             "no-unused-labels": "error",
-            "no-unused-vars": "error",
+            "no-unused-vars": "warn", //DOMUSO
             "no-use-before-define": "off",
             "no-useless-call": "off",
             "no-useless-computed-key": "off",
             "no-useless-concat": "off",
             "no-useless-constructor": "off",
-            "no-useless-escape": "error",
+            "no-useless-escape": "warn", //DOMUSO
             "no-useless-rename": "off",
             "no-useless-return": "off",
             "no-var": "off",
