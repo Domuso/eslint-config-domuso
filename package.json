@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Domuso/eslint-config-domuso#readme",
   "peerDependencies": {
     "eslint": ">= 3"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
